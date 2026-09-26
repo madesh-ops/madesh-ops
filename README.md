@@ -180,12 +180,6 @@ I'm particularly interested in building **practical AI and software applications
 
 ---
 
-## 🚀 Featured Projects
-
-[![YouTube RAG](https://github-readme-stats.vercel.app/api/pin/?username=madesh-ops&repo=YOUR_REPO)](https://github.com/madesh-ops/YOUR_REPO)
-[![Introvert Extrovert Predictor](https://github-readme-stats.vercel.app/api/pin/?username=madesh-ops&repo=Introvert-ExtrovertPredictor)](https://github.com/madesh-ops/Introvert-ExtrovertPredictor)
-
----
 
 ## 🤝 Let's Connect
 
