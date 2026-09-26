@@ -180,18 +180,10 @@ I'm particularly interested in building **practical AI and software applications
 
 ---
 
-## 📊 GitHub
+## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/madesh-ops">
-  <img src="https://github-readme-stats.vercel.app/api?username=madesh-ops&show_icons=true&hide_border=true&theme=transparent" height="165">
-</a>
-<a href="https://github.com/madesh-ops">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madesh-ops&layout=compact&hide_border=true&theme=transparent" height="165">
-</a>
-
-</div>
+[![YouTube RAG](https://github-readme-stats.vercel.app/api/pin/?username=madesh-ops&repo=YOUR_REPO)](https://github.com/madesh-ops/YOUR_REPO)
+[![Introvert Extrovert Predictor](https://github-readme-stats.vercel.app/api/pin/?username=madesh-ops&repo=Introvert-ExtrovertPredictor)](https://github.com/madesh-ops/Introvert-ExtrovertPredictor)
 
 ---
 
